@@ -1,0 +1,5 @@
+Login page
+
+1. Login page with local-storage (Signup Page + Login)
+2. Login page with real API (to check login)
+3. Login page with API + TOKEN based authentication
